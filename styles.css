@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
 #total{
-	text-align:end;
 	font-weight:bold;
+	colspan:3;
 }
